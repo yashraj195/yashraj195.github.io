@@ -36,7 +36,6 @@ This is my personal portfolio website, hosted on GitHub Pages. It showcases my w
 - JavaScript (vanilla)  
 - Git / GitHub for version control  
 - GitHub Pages for deployment  
-- Prepros / build tool (if used)  
 
 ## 🔗 Live Demo
 
